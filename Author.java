@@ -4,9 +4,9 @@ import java.io.*;
  * Author describes any author with many of 
  * his/her different stats. 
  * 
- * @author Riya Gupta
+ * @author Anika Pandey
  * 
- * @version 5-31-20
+ * @version 5-31-23
  */
 public class Author
 {
