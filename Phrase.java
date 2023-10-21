@@ -3,8 +3,8 @@ import java.util.*;
  * A Phrase object consists of a group of Token objects,
  * 		each containing a single word.
  * 
- * @author Riya Gupta
- * @version 5-23-20
+ * @author Anika Pandey
+ * @version 5-23-23
  */
 public class Phrase
 {
