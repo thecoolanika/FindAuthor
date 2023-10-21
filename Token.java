@@ -2,8 +2,8 @@
 /**
  * A Token is one of the token types defined in Scanner, holding a String. 
  * 
- * @author Riya Gupta
- * @version 5-22-20
+ * @author Anika Pandey
+ * @version 5-22-23
  */
 public class Token
 {
