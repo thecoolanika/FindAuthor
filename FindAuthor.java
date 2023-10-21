@@ -4,9 +4,8 @@ import java.io.*;
 /**
  * FindAuthor, given a file, can make
  * 		a guess on who the author is
- * @author Riya Gupta
- * 
- * @version 5-31-20
+ * @author Anika Pandey
+ * @version 5-31-23
  */
 public class FindAuthor
 {
