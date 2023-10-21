@@ -5,8 +5,8 @@ import java.io.*;
  * A Document object is responsible for directing the scanning and parsing of a document. 
  * It will encapsulate all of the sentences found in the document.
  * 
- * @author Riya Gupta
- * @version 5-23-20
+ * @author Anika Pandey
+ * @version 5-23-23
  */
 public class Document
 {
