@@ -1,9 +1,9 @@
 import java.util.*;
 /**
- * A Setence object consists of a group of Sentence objects,
+ * A Setence object consists of a group of Phrase objects,
  * 
- * @author Riya Gupta
- * @version 5-23-20
+ * @author Anika Pandey
+ * @version 5-23-23
  */
 public class Sentence
 {
